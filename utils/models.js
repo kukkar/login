@@ -1,8 +1,8 @@
 /*
- * @author Divya Garg
- * @created 5 October 2017
+ * @author Sahil Kukkar
+ * @created 15 November 2017
  * @version 1.0
- * @package CM API
+ * @package Idiotmirror
  */
 
 const Sequelize = require('sequelize');
